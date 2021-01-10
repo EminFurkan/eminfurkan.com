@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 100;
+  font-display: fallback;
+  src: url('https://rsms.me/inter/font-files/Inter-ThinItalic.woff2')
+      format('woff2'),
+    url('https://rsms.me/inter/font-files/Inter-ThinItalic.woff')
+      format('woff');
+}
+@font-face {
+  font-family: 'courier-prime';
+  src: url('https://use.typekit.net/af/3538fb/0000000000000000000134f6/23/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3')
+      format('woff2'),
+    url('https://use.typekit.net/af/3538fb/0000000000000000000134f6/23/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3')
+      format('woff');
+  font-display: fallback;
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'courier-prime';
+  src: url('https://use.typekit.net/af/8caa58/0000000000000000000134f7/23/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3')
+      format('woff2'),
+    url('https://use.typekit.net/af/8caa58/0000000000000000000134f7/23/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3')
+      format('woff');
+  font-display: fallback;
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'courier-prime';
+  src: url('https://use.typekit.net/af/53deb2/0000000000000000000134f8/23/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3')
+      format('woff2'),
+    url('https://use.typekit.net/af/53deb2/0000000000000000000134f8/23/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3')
+      format('woff');
+  font-display: fallback;
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'courier-prime';
+  src: url('https://use.typekit.net/af/78b949/0000000000000000000134f9/23/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3')
+      format('woff2'),
+    url('https://use.typekit.net/af/78b949/0000000000000000000134f9/23/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3')
+      format('woff');
+  font-display: fallback;
+  font-style: italic;
+  font-weight: 700;
+}
